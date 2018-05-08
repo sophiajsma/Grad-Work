@@ -1,0 +1,10 @@
+office_holder	0
+basic_title	1
+district_represented	2
+legislative_sessions	3
+to	4
+appointed_by	5
+jurisdiction_of_office	6
+office_position_or_title	7
+from	8
+governmental_body	9

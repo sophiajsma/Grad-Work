@@ -1,0 +1,19 @@
+m.09pwq9	President of Italy	office_position_or_title	m.09pwq9
+m.0tl574v	President of Equatorial Guinea	office_position_or_title	m.0tl574v
+m.0n7w_60	Prime Minister of Togo	office_position_or_title	m.0n7w_60
+m.0j5wdxs	Prime Minister of Lesotho	office_position_or_title	m.0j5wdxs
+m.02qw8p4	Prime Minister of Crimea	office_position_or_title	m.02qw8p4
+m.033xx5	Prime Minister of Afghanistan	office_position_or_title	m.033xx5
+m.0g5b4x4	Prime Minister of Barbados	office_position_or_title	m.0g5b4x4
+m.037f75	Prime Minister of Zambia	office_position_or_title	m.037f75
+m.025tgwj	United States Ambassador to Russia	office_position_or_title	m.025tgwj
+m.02xy5	First Lady of the United States	office_position_or_title	m.02xy5
+m.080v2	Vice President of the United States	office_position_or_title	m.080v2
+m.060d2	President of the United States	office_position_or_title	m.060d2
+
+m.02rbq	Emperor	basic_title	m.02rbq
+m.0b1p7	Lord Mayor of London	basic_title	m.0b1p7
+m.060c4	President	basic_title	m.060c4
+m.045p0t7	President of Boston City Council	basic_title	m.045p0t7
+m.01mtk7	Minister of Finance	basic_title	m.01mtk7
+m.01hvfh	President of the Senate	basic_title	m.01hvfh
